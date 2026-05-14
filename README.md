@@ -1,4 +1,4 @@
-# Olá, eu sou o Giulliano! 👋
+# Olá, eu sou o Giulliano!
 
 ### Estudante de Análise e Desenvolvimento de Sistemas | UI/UX & Full-Stack em formação
 
@@ -6,7 +6,7 @@ Sou estudante de ADS na Uninassau e apaixonado pela intersecção entre tecnolog
 
 ---
 
-### 🚀 O que estou estudando agora (Faculdade)
+### 📚 O que estou estudando agora (Faculdade)
 No momento, estou mergulhado no universo de:
 - **Mobile Development & Frameworks Back-end**: Construindo as bases para aplicações completas.
 - **Banco de Dados (MySQL)**: Estruturando informações de forma eficiente.

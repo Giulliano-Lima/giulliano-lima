@@ -29,14 +29,14 @@ Tenho formação em **Design pela Escola Saga**, o que me dá uma visão diferen
 ---
 
 ### 📂 Projeto em Destaque
-**[Nome do Projeto LGBT+]** Projeto focado em saúde física, mental e empregabilidade para a comunidade LGBT+.
+**Mão Amiga** Projeto focado em saúde física, mental e empregabilidade para a comunidade LGBT+.
 - **Tecnologias:** Desenvolvido com MySQL para gestão de dados e VS Code.
 - **Impacto:** Solução voltada para o bem-estar e inclusão social.
 
 ---
 
 ### 📫 Vamos conversar?
-- **E-mail:** [Seu E-mail Aqui]
+- **E-mail:** giullianor2827@gmail.com
 - **Objetivo:** Em busca de estágio e troca de experiências!
 
 ---
